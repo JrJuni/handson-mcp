@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# handson-mcp local data
+handson.db
+handson.db-journal
+*.db
